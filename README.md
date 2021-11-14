@@ -1,6 +1,4 @@
 # Loading Indicator
-
-# Reload Button
 Designed by [Oleg Frolov](https://dribbble.com/shots/5421606-Loader-XL) and implemented by me in Python using PySide6
 
 ## Dependencies
